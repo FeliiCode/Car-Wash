@@ -1,0 +1,25 @@
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.AssemblyReference.cache
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.GenerateResource.cache
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.AssemblyInfoInputs.cache
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.AssemblyInfo.cs
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Car Wash.exe
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Car Wash.deps.json
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Car Wash.runtimeconfig.json
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Car Wash.dll
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Car Wash.pdb
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafal\source\repos\Car Wash\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.Up2Date
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.dll
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\refint\Car Wash.dll
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.pdb
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car Wash.genruntimeconfig.cache
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\ref\Car Wash.dll
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.MainMenu.resources
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.Customer.resources
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.Laporan.resources
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.PaketCuci.resources
+C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.PembayaranJasa.resources
