@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|c:\\users\\hp\\source\\repos\\car-wash\\car wash\\model\\paketcuci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:model\\paketcuci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|c:\\users\\hp\\source\\repos\\car-wash\\car wash\\model\\pembayaranjasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:model\\pembayaranjasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|c:\\users\\hp\\source\\repos\\car-wash\\car wash\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\design\\laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:design\\laporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\design\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:design\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\design\\paketcuci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:design\\paketcuci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\design\\pembayaranjasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:design\\pembayaranjasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\design\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:design\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|c:\\users\\hp\\source\\repos\\car-wash\\car wash\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|c:\\users\\hp\\source\\repos\\car-wash\\car wash\\data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|c:\\users\\hp\\source\\repos\\car-wash\\car wash\\design\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE6EA-0A81-4888-9AB3-31C484EF9098}|Car Wash.csproj|solutionrelative:design\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 113,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaketCuci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Model\\PaketCuci.cs",
+              "RelativeDocumentMoniker": "Model\\PaketCuci.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Model\\PaketCuci.cs*",
+              "RelativeToolTip": "Model\\PaketCuci.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:28:53.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PembayaranJasa.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Model\\PembayaranJasa.cs",
+              "RelativeDocumentMoniker": "Model\\PembayaranJasa.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Model\\PembayaranJasa.cs*",
+              "RelativeToolTip": "Model\\PembayaranJasa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:28:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Model\\Customer.cs*",
+              "RelativeToolTip": "Model\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:28:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Design\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Design\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Design\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:06:03.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaketCuci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\PaketCuci.cs",
+              "RelativeDocumentMoniker": "Design\\PaketCuci.cs",
+              "ToolTip": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Design\\PaketCuci.cs [Design]",
+              "RelativeToolTip": "Design\\PaketCuci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:02:51.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PembayaranJasa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\PembayaranJasa.cs",
+              "RelativeDocumentMoniker": "Design\\PembayaranJasa.cs",
+              "ToolTip": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Design\\PembayaranJasa.cs [Design]",
+              "RelativeToolTip": "Design\\PembayaranJasa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:06:32.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laporan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\Laporan.cs",
+              "RelativeDocumentMoniker": "Design\\Laporan.cs",
+              "ToolTip": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Design\\Laporan.cs [Design]",
+              "RelativeToolTip": "Design\\Laporan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:05:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\Customer.cs",
+              "RelativeDocumentMoniker": "Design\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Design\\Customer.cs [Design]",
+              "RelativeToolTip": "Design\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:05:26.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Data\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Data\\DBConnection.cs",
+              "RelativeToolTip": "Data\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:23:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Data\\Program.cs",
+              "RelativeDocumentMoniker": "Data\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Data\\Program.cs",
+              "RelativeToolTip": "Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:27:46.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Design\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Car-Wash\\Car Wash\\Design\\MainMenu.cs",
+              "RelativeToolTip": "Design\\MainMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:24:33.493Z"
             }
           ]
         },

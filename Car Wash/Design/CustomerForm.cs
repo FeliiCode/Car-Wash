@@ -10,24 +10,26 @@ using System.Windows.Forms;
 
 namespace Car_Wash
 {
-    public partial class PembayaranJasa : Form
+    public partial class CustomerForm : Form
     {
-        public PembayaranJasa()
+        public object Id { get; internal set; }
+
+        public CustomerForm()
         {
             InitializeComponent();
         }
 
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void label7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label10_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
         {
 
         }
@@ -37,12 +39,7 @@ namespace Car_Wash
 
         }
 
-        private void Pembayaran_Jasa_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        private void Customer_Load(object sender, EventArgs e)
         {
 
         }

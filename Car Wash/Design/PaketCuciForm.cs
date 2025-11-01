@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Car_Wash
 {
-    public partial class PaketCuci : Form
+    public partial class PaketCuciForm : Form
     {
-        public PaketCuci()
+        public PaketCuciForm()
         {
             InitializeComponent();
         }

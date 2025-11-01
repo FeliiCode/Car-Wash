@@ -1,6 +1,6 @@
 ﻿namespace Car_Wash
 {
-    partial class PembayaranJasa
+    partial class PembayaranJasaForm
     {
         /// <summary>
         /// Required designer variable.

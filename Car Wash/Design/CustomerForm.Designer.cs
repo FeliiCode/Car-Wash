@@ -1,6 +1,6 @@
 ﻿namespace Car_Wash
 {
-    partial class Customer
+    partial class CustomerForm
     {
         /// <summary>
         /// Required designer variable.

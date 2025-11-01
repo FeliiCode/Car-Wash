@@ -23,3 +23,18 @@ C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.Customer.
 C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.Laporan.resources
 C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.PaketCuci.resources
 C:\Users\rafal\source\repos\Car Wash\obj\Debug\net8.0-windows\Car_Wash.PembayaranJasa.resources
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car_Wash.Customer.resources
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car_Wash.Laporan.resources
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car_Wash.MainMenu.resources
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car_Wash.PaketCuci.resources
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car_Wash.PembayaranJasa.resources
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.sourcelink.json
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.dll
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\refint\Car Wash.dll
+C:\Users\HP\Source\Repos\Car-Wash\Car Wash\obj\Debug\net8.0-windows\Car Wash.pdb

@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Car_Wash.Model
 {
-    internal class PaketCuci
+    public class PaketCuci
     {
+        public int id { get; set; }
+
+        public string KodePaket { get; set; }
+        public string JenisKendaraan { get; set; }
+        public double Durasi { get; set; }
+        public string NamaPaket { get; set; }
+        public double Harga { get; set; }
+
+
     }
 }

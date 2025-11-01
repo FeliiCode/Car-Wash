@@ -28,7 +28,7 @@ namespace Car_Wash
         // === MENU PELANGGAN ===
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Customer formPelanggan = new Customer();
+            CustomerForm formPelanggan = new CustomerForm();
             formPelanggan.MdiParent = this;
             formPelanggan.Show();
         }
@@ -36,7 +36,7 @@ namespace Car_Wash
         // === MENU PAKET CUCI ===
         private void PaketCuci_Click(object sender, EventArgs e)
         {
-            PaketCuci formPaket = new PaketCuci();
+            PaketCuciForm formPaket = new PaketCuciForm();
             formPaket.MdiParent = this;
             formPaket.Show();
         }
@@ -44,7 +44,7 @@ namespace Car_Wash
         // === MENU TRANSAKSI ===
         private void PembayaranJasa_Click(object sender, EventArgs e)
         {
-            PembayaranJasa formPembayaranJasa = new PembayaranJasa();
+            PembayaranJasaForm formPembayaranJasa = new PembayaranJasaForm();
             formPembayaranJasa.MdiParent = this;
             formPembayaranJasa.Show();
         }

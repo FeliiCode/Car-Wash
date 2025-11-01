@@ -1,6 +1,6 @@
 ﻿namespace Car_Wash
 {
-    partial class PaketCuci
+    partial class PaketCuciForm
     {
         /// <summary>
         /// Required designer variable.
