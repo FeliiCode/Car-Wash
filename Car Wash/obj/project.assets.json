@@ -191,11 +191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Car Wash\\Car Wash.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Car Wash.csproj",
       "projectName": "Car Wash",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Car Wash\\Car Wash.csproj",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\Car Wash.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Car Wash\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\Car-Wash\\Car Wash\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
